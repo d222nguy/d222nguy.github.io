@@ -12,7 +12,7 @@ export default function() {
   ScrollReveal().reveal('.section-title', 
     assignProps(
       {
-        delay:300,distance:'0px', 
+        delay:1000,distance:'0px', 
         origin:'bottom'
       }, defaultProps)
   );
